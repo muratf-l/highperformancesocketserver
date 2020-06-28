@@ -1,0 +1,5 @@
+{
+  "Port": 9100,
+  "ConnectionString": "",
+  "GameControlLoopSeconds": 5
+}
